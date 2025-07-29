@@ -24,19 +24,19 @@
 
 ## 🌟 Featured Projects
 
-### 🎮 [Pokémon Roguelike Web Game](#)
+### 🎮 Pokémon Roguelike Web Game
 *Full-Stack AWS-Deployed Game*  
 - Browser-based roguelike with procedurally generated maps and AI-driven trainer battles  
 - Full-stack architecture: **Django REST, React, PostgreSQL**, deployed via **AWS S3/CloudFront**  
 - Integrated Supabase authentication and persistent session-based game state  
 
-### 🎼 [Sheet2MIDI](#)
+### 🎼 Sheet2MIDI
 *Optical Music Recognition → MIDI*  
 - Converts scanned sheet music into playable MIDI using **CNNs, RNNs, and OpenCV**  
 - Full-stack app with **Flask + React**, supporting uploads, segmentation, and real-time playback  
 - Designed scalable APIs and evaluation tools for symbol recognition and note accuracy  
 
-### 🧬 [Breast Cancer Biomarker Discovery](#)
+### 🧬 Breast Cancer Biomarker Discovery
 *Machine Learning for Bioinformatics*  
 - Applied **Elastic Net Regression** on RNA-Seq data to identify subtype-specific gene biomarkers  
 - Performed enrichment analysis using STRING and DAVID for biological validation  
