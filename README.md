@@ -42,7 +42,7 @@
 - Performed enrichment analysis using STRING and DAVID for biological validation  
 - Finalist @ **ISEF 2022**; selected participant in **Regeneron STS 2023**
 
-### 📧 AI Email Assistant Chrome Extension
+### 📧 [AI Email Assistant Chrome Extension](https://github.com/jhuynh06/email-overlay-ext)
 *Hackathon Project – Agentic AI for Gmail & Outlook*  
 - Built a Chrome extension that generates replies, summarizes emails, and processes attachments  
 - Leveraged **Google Gemini API** for multimodal AI and tone-customized email generation  
