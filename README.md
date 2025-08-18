@@ -24,7 +24,7 @@
 
 ## 🌟 Featured Projects
 
-### 🎮 Pokémon Roguelike Web Game
+### 🎮 [Pokémon Roguelike Web Game](https://github.com/Dragoknight777/PokeTower-v2)
 *Full-Stack AWS-Deployed Game*  
 - Browser-based roguelike with procedurally generated maps and AI-driven trainer battles  
 - Full-stack architecture: **Django REST, React, PostgreSQL**, deployed via **AWS S3/CloudFront**  
