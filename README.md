@@ -1,16 +1,15 @@
 # Hi, I'm Daniel Lin 👋
 
 🎓 **EECS @ UC Berkeley**  
-💻 **Full-Stack Developer | Machine Learning Researcher | Quant Enthusiast**  
+💻 **Full-Stack Developer | Machine Learning Researcher**  
 🌱 Exploring AI, computational biology, and scalable web applications
 
 ---
 
 ## 🚀 About Me
-- 🔹 Undergraduate researcher at **UCSF Huang Lab**, using **transformer models (Geneformer)** for single-cell genomics  
-- 🔹 Former **Quantitative Analyst Intern @ TechSharpe**, building alpha factors with **deep learning & OLS regression**  
-- 🔹 Full-stack developer with experience deploying apps on **AWS, Django REST, React, PostgreSQL**  
-- 🔹 Interested in the intersection of **AI, finance, and computational biology**  
+I am a Full-Stack Developer and Quantitative Analyst with a focus on building data-driven web applications. My expertise lies in bridging the gap between raw data and user experience—whether that’s engineering backend systems with Ruby on Rails or developing algorithmic trading strategies using Python and pandas.
+
+I am passionate about writing clean, testable code (TDD with RSpec is a staple of my workflow) and translating complex mathematical concepts into functional software. Currently, I am focused on projects that leverage financial data to create actionable insights
 
 ---
 
@@ -23,6 +22,15 @@
 ---
 
 ## 🌟 Featured Projects
+
+### Moodify - AI-Powered Music Playlist Generator
+* **AI-driven playlist creation:** Built a React Native mobile app that uses Ollama (LLaVA vision model) to analyze uploaded images and curate personalized Spotify playlists from a user's saved tracks.
+* **AI-powered music curation:** Implemented a two-stage local AI pipeline using LLaVA for image context analysis and Mistral for semantic song selection, matching visual mood and aesthetics to specific music recommendations.
+* **Full-stack integration:** Developed an Express.js backend with Spotify OAuth, image processing (Multer), and REST APIs to handle authentication, song selection, and playlist creation.
+* **Cross-platform mobile app:** Built with Expo and React Native, featuring seamless Spotify authentication, image upload handling, and embedded playlist previews.
+* **End-to-end user experience:** Designed a frictionless workflow: Spotify login → Image upload → AI analysis → Automatic playlist generation with custom cover art
+
+**Technologies:** React Native, Expo, Express.js, Ollama (LLaVA, Mistral), Spotify Web API, TypeScript, Node.js
 
 ### 🎮 [Pokémon Roguelike Web Game](https://github.com/Dragoknight777/PokeTower-v2)
 *Full-Stack AWS-Deployed Game*  
